@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.22_15_29_31.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jumps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1637</xmin>
+			<ymin>34</ymin>
+			<xmax>1711</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
